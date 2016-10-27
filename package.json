@@ -1,0 +1,14 @@
+{
+  "name": "docker_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ernesto Acevedo",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
