@@ -3,6 +3,7 @@
 const express = require('express');
 
 const PORT = 8080;
+console.log(PORT)
 
 const app = express();
 app.get('/', function (req, res) {
